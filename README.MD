@@ -6,7 +6,8 @@ Este projeto simula o algoritimo de escalonamento de processos FIFO, em que os p
 - [Funcionalidades](#funcionalidades)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Descrição dos Arquivos](#descrição-dos-arquivos)
-- [Instalação e Execução](#instalação-e-execução)
+- [Pré-requisitos para Execução](#pré-requisitos-para-execução)
+- [Download e Execução](#download-e-execução)
 
 ## Funcionalidades
 - **Simulação de Escalonamento**: Implementa o algoritmo FIFO para escalonar os processos.
